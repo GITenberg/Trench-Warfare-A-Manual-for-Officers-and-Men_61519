@@ -1,0 +1,29 @@
+_repo: Trench-Warfare-A-Manual-for-Officers-and-Men_61519
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smith, Joseph S. (Joseph Shuter)
+    aliases:
+    - Smith, Joseph Shuter
+    - Smith, J. S.
+    birthdate: 1893
+    deathdate: 1950
+    gutenberg_agent_id: '51471'
+    url: http://www.gutenberg.org/2009/agents/51471
+description: ''
+gutenberg_issued: '2020-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61519'
+  lccn: '17016322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Intrenchments'
+- !lcc 'UG'
+- !lcsh 'Siege warfare'
+- GITenberg
+title: 'Trench Warfare: A Manual for Officers and Men'
+url: http://www.gutenberg.org/ebooks/61519
